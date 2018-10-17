@@ -6,7 +6,7 @@
 ## Modules
 - M1.1 Introduction
     - [PPT] Introduction to the course
-    - [Video] [Stock Price Prediction | AI in Finance (24 min)](https://www.youtube.com/watch?v=7vunJlqLZok)
+    - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
 - M1.2 Machine Learning in Finance
     - [PPT] Machine Learning in Finance
