@@ -1,4 +1,4 @@
-# Module4. Exercise - Implementing Time Series Prediciton Models (More Comprehensive)
+# Module4. Implementing Time Series Prediciton Models (More Comprehensive)
 ## Goal
 1. Apply your own neural network models to actual cryptocurrency data
 ## Modules
