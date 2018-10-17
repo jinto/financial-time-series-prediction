@@ -1,4 +1,7 @@
 # Module3. Implementing Time Series Prediciton Models
+
+*Will be released after Module1*
+
 ## Goal
 1. Implement time series prediction model using Tensorflow Keras API 
 2. Implement various fuctions for robustness of time series prediction algorithms
@@ -8,5 +11,5 @@
 - M3.3
 - M3.4
 - M3.5
-- M3.6 Assignments (Will be released after Module2)
+- M3.6 Assignments
 - M3.7 Slack Discussion

@@ -1,4 +1,7 @@
 # Module4. Implementing Time Series Prediciton Models (More Comprehensive)
+
+*Will be released after Module1*
+
 ## Goal
 1. Apply your own neural network models to actual cryptocurrency data
 ## Modules
@@ -7,5 +10,5 @@
 - M4.3 
 - M4.4 
 - M4.5
-- M4.6 Assignments (Will be released after Module3)
+- M4.6 Assignments
 - M4.7 Slack Discussion
