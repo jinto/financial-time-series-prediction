@@ -3,7 +3,8 @@
 *Will be released after Module1*
 
 ## Goal
-1. Apply your own neural network models to actual cryptocurrency data
+- Learn how to implement your own neural network models with cryptocurrency data which includes bid/ask volumes, minute level prices and trading volumes 
+
 ## Modules
 - M4.1
 - M4.2 

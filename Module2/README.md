@@ -3,8 +3,8 @@
 *Will be released after Module1*
 
 ## Goal
-1. Learn Tensorflow Keras API on Google Colab 
-2. Implement FNN, CNN, RNN models using Tensorflow Keras API
+- Learn how to implement FNN, CNN, RNN models using Tensorflow Keras API on Google Colab 
+
 ## Modules
 - M2.1 
 - M2.2

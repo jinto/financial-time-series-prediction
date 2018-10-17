@@ -1,7 +1,8 @@
 # Module1. Getting Started + Google Colab Setting
 ## Goal
-1. Understand the problems with financial time series predictions and advantages/disadvantages of machine learning
-2. Learn how to use [Google Colaboratory](https://colab.research.google.com/)
+- Understand the problems with financial time series predictions and advantages/disadvantages of machine learning
+- Learn how to use [Google Colaboratory](https://colab.research.google.com/)
+
 ## Modules
 - M1.1 Introduction
     - [PPT] Introduction to the course

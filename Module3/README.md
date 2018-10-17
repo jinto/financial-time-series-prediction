@@ -3,8 +3,8 @@
 *Will be released after Module1*
 
 ## Goal
-1. Implement time series prediction model using Tensorflow Keras API 
-2. Implement various fuctions for robustness of time series prediction algorithms
+- Learn how to implement time series prediction models with various metrics for robusteness of algorithms using Tensorflow Keras API 
+
 ## Modules
 - M3.1
 - M3.2
