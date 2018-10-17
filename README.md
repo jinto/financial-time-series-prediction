@@ -14,10 +14,10 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series by usi
 ## Modules
 - This session is desinged with four modules:
 
-### Module 1. [Getting Started + Google Colab Setting](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module1)
+- ### Module 1. [Getting Started + Google Colab Setting](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module1)
 
-### Module 2. [Learning Tensorflow Keras API](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module2)
+- ### Module 2. [Learning Tensorflow Keras API](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module2)
 
-### Module 3. [Implementing Time Series Prediciton Models](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module3)
+- ### Module 3. [Implementing Time Series Prediciton Models](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module3)
 
-### Module 4. [Implementing Time Series Prediciton Models (More Comprehensive)](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module4)
+- ### Module 4. [Implementing Time Series Prediciton Models (More Comprehensive)](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module4)
