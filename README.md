@@ -1,4 +1,4 @@
-# [STUDYPIE] Predicting Financial Time Series by using Deep Learning
+# [STUDYPIE] Predicting Financial Time Series using Deep Learning
 
 *Work-in-Progress (Will begin at Oct 22. 2018)*
 
