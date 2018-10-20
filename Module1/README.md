@@ -5,7 +5,7 @@
 
 ## Modules
 - M1.1 Introduction
-    - [PPT] Introduction to the course
+    - [PPT] [Introduction to the course]()
     - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
 - M1.2 Machine Learning in Finance
@@ -19,9 +19,11 @@
 - M1.4 Google Colab
     - [Video] [구글 머신러닝 단기집중과정 - Pandas(1/4) Series와 DataFrame 이해하기](https://www.youtube.com/watch?v=CIdY2IZ5sE4&index=5&list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE) (11min)
     - [Video] [구글 머신러닝 단기집중과정 - Pandas(2/4) CSV 파일 읽어오기, 데이터 접근하기](https://www.youtube.com/watch?v=NUyypQjSRzw&index=6&list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE) (7min)
+    - [Hands-on-Labs] [Hands-on-Labs Tutorial - M1.Lab1_Colab]()
 
 - M1.5 Tensorflow Keras API on Google Colab
     - [Video] [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) (20min)
+    - [Hands-on-Labs] [Hands-on-Labs Tutorial - M1.Lab2_Keras]()
 
 - M1.6 [Assignments](https://docs.google.com/forms/d/e/1FAIpQLScccRwE4-4krpGQ1ZfCzIMCGA0AjgoBV3JHt4ZCO39eLvJlgg/viewform)
 

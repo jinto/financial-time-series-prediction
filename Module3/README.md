@@ -1,9 +1,10 @@
-# Module3. Implementing Time Series Prediciton Models
+# Module3. Implementing Time Series Prediction Models
 
-*Will be released after Module1*
+*Will be released after Module2*
 
 ## Goal
-- Learn how to implement time series prediction models with various metrics for robusteness of algorithms using Tensorflow Keras API 
+- Implement FNN, RNN, CNN models for time series data using Tensorflow Keras API on Google Colab 
+- Learn which metrics could be important for robustness of time series prediction algorithms 
 
 ## Modules
 - M3.1
