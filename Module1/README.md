@@ -5,7 +5,7 @@
 
 ## Modules
 - M1.1 Introduction
-    - [PPT] [Introduction to the course]()
+    - [PPT] [Introduction to the course](https://github.com/jonghkim/financial-time-series-prediction/blob/master/Module1/M1.1%20Introduction%20to%20the%20course.pdf)
     - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
 - M1.2 Machine Learning in Finance
