@@ -28,3 +28,8 @@
 - M1.6 [Assignments](https://docs.google.com/forms/d/e/1FAIpQLScccRwE4-4krpGQ1ZfCzIMCGA0AjgoBV3JHt4ZCO39eLvJlgg/viewform)
 
 - M1.7 Slack Discussion
+
+## Supplementary Materials
+- [전직 트레이더, 초단타 퀀트 매매법을 말하다: 권용진 대표 인터뷰](https://ppss.kr/archives/177286), 2018
+- [The Impact of Machine Learning on Economics](https://www.nber.org/chapters/c14009.pdf), 2018
+- [Machine Learning in Finance](https://arxiv.org/pdf/1602.06561.pdf), 2016
