@@ -8,8 +8,8 @@
     - [PPT] [Introduction to the course](https://github.com/jonghkim/financial-time-series-prediction/blob/master/Module1/M1.1%20Introduction%20to%20the%20course.pdf)
     - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
-- M1.2 Machine Learning in Finance
-    - [PPT] Machine Learning in Finance
+- M1.2 Machine Learning for Financial Time Series Prediction
+    - [PPT] [Machine Learning for Financial Time Series Prediction]()
 
 - M1.3 Google Colab
     - [Video] [[Colab] 무료 GPU로 파이썬 노트북을 사용할 수 있는 google Drive Colaboratory 소개](https://youtu.be/XRBXMohjQos) (11min)
@@ -29,7 +29,7 @@
 
 - M1.7 Slack Discussion
 
-## Supplementary Materials
+## References
+- [Two Paradigms of Analytics: Input-Output Framework](https://drive.google.com/file/d/1KhAXzLpo-HU1I4fU6wAwcQHNiZ5Kizp0/view), 2018
 - [전직 트레이더, 초단타 퀀트 매매법을 말하다: 권용진 대표 인터뷰](https://ppss.kr/archives/177286), 2018
-- [The Impact of Machine Learning on Economics](https://www.nber.org/chapters/c14009.pdf), 2018
-- [Machine Learning in Finance](https://arxiv.org/pdf/1602.06561.pdf), 2016
+- [Deep learning in finance](https://arxiv.org/abs/1602.06561), 2016
