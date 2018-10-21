@@ -23,7 +23,8 @@
 
 - M1.5 Tensorflow Keras API on Google Colab
     - [Video] [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) (20min)
-    
+    - [Hands-on-Labs] [Tutorial - M1.Lab1_Keras]()
+
 - M1.6 [Assignments](https://docs.google.com/forms/d/e/1FAIpQLScccRwE4-4krpGQ1ZfCzIMCGA0AjgoBV3JHt4ZCO39eLvJlgg/viewform)
 
 - M1.7 Slack Discussion
