@@ -5,11 +5,11 @@
 
 ## Modules
 - M1.1 Introduction
-    - [PPT] [Introduction to the course](https://github.com/jonghkim/financial-time-series-prediction/blob/master/Module1/M1.1%20Introduction%20to%20the%20course.pdf)
+    - [PPT] [Introduction to the course](https://github.com/jonghkim/financial-time-series-prediction/Module1/M1.1 Introduction to the course.pdf)
     - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
 - M1.2 Machine Learning for Financial Time Series Prediction
-    - [PPT] [Machine Learning for Financial Time Series Prediction]()
+    - [PPT] [Machine Learning for Financial Time Series Prediction](https://github.com/jonghkim/financial-time-series-prediction/blob/master/Module1/M1.2 Machine Learning for Financial Time Series Prediction.pdf)
 
 - M1.3 Google Colab
     - [Video] [[Colab] 무료 GPU로 파이썬 노트북을 사용할 수 있는 google Drive Colaboratory 소개](https://youtu.be/XRBXMohjQos) (11min)
