@@ -13,17 +13,17 @@
 
 - M1.3 Google Colab
     - [Video] [[Colab] 무료 GPU로 파이썬 노트북을 사용할 수 있는 google Drive Colaboratory 소개](https://youtu.be/XRBXMohjQos) (11min)
-    - [Video] [[Colab] 구글 드라이브의 Colabortory를 통해 파이썬 데이터 시각화툴(Matplotlib, Seaborn, Altair, Plotly, bokeh) 사용하기](https://youtu.be/GCJQ9zbAhPo) (14min)
     - [Video] [[Colab] 텐서플로우 백엔드를 사용해서 케라스 상에서 무료 GPU를 사용하는 방법을 알아봅니다](https://youtu.be/UKujX90xLHo) (9min)
-
+    - [Video] [[Colab] 텐서플로우(TensorFlow)로 Hello World 찍어보기, Colaboratory 단축키 사용하기](https://youtu.be/MOdFvqO7qzc) (5min)
+    
 - M1.4 Google Colab
-    - [Video] [구글 머신러닝 단기집중과정 - Pandas(1/4) Series와 DataFrame 이해하기](https://www.youtube.com/watch?v=CIdY2IZ5sE4&index=5&list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE) (11min)
-    - [Video] [구글 머신러닝 단기집중과정 - Pandas(2/4) CSV 파일 읽어오기, 데이터 접근하기](https://www.youtube.com/watch?v=NUyypQjSRzw&index=6&list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE) (7min)
-    - [Hands-on-Labs] [Hands-on-Labs Tutorial - M1.Lab1_Colab]()
+    - [Video] [구글 머신러닝 단기집중과정 - Pandas(1/4) Series와 DataFrame 이해하기](https://youtu.be/CIdY2IZ5sE4) (11min)
+    - [Video] [구글 머신러닝 단기집중과정 - Pandas(2/4) CSV 파일 읽어오기, 데이터 접근하기](https://youtu.be/NUyypQjSRzw) (7min)
+    - [Video] [구글 머신러닝 단기집중과정 - Pandas(3/4) Series.apply의 인수로 lambda 함수를 사용해서 새로운 Series 를 만들고 데이터프레임에 추가하기](https://youtu.be/v6kplTZXIAw) (10min)
 
 - M1.5 Tensorflow Keras API on Google Colab
     - [Video] [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) (20min)
-    - [Hands-on-Labs] [Hands-on-Labs Tutorial - M1.Lab2_Keras]()
+    - [Hands-on-Labs] [Hands-on-Labs Tutorial - M1.Lab1_Keras](https://github.com/jonghkim/financial-time-series-prediction/blob/master/Module1/M1.5%20Hands-on-Labs%20Tutorial%20-%20M1.Lab1_Keras.pdf)
 
 - M1.6 [Assignments](https://docs.google.com/forms/d/e/1FAIpQLScccRwE4-4krpGQ1ZfCzIMCGA0AjgoBV3JHt4ZCO39eLvJlgg/viewform)
 
